@@ -1,0 +1,26 @@
+:root {
+  --theme-surface: #fff;
+  --theme-surface-text: #000000de;
+  --theme-primary: #ededed;
+  --theme-primary-text: #000000de;
+  --warning: #ff740a;
+  --error: #c93030;
+  --success: #2a8f2f;
+  --info: #00466e;
+  --tertiary: #c71585;
+  --secondary: #0064cf;
+  --primary: #e30101;
+  --white: var(--theme-surface);
+  --black: #000;
+  --divide-color: #00000040;
+  --scrollbar-background: #616161;
+  --scrollbar-background-hover: #424242;
+  --scrollbar-track: #f5f5f5;
+  --blur-header: #ffffff4d;
+  --theme-banner: #d3d2d2;
+  --hidden-text-background: linear-gradient(
+    to right,
+    #ededed00 85%,
+    #ededed 90%
+  );
+}

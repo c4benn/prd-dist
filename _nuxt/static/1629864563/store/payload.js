@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/store", (function(a,b,c,d,e){return {data:[{}],fetch:{},mutations:[[a,{value:b,name:"renderPageTitle"}],[a,{name:c,value:d}],[a,{path:"showPageTitle",value:b}],[a,{name:"initialRoute",value:{fullPath:e,params:{},hash:"",path:e,query:{}}}],[a,{name:c,value:d}]]}}("UPDATE_",true,"greeting","evening","\u002Fstore")));

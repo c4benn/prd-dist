@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/shop/add_to_bag/2020", (function(a,b,c,d){return {data:[{}],fetch:{},mutations:[[a,{value:true,name:"renderPageTitle"}],[a,{name:b,value:c}],[a,{path:"showPageTitle",value:false}],[a,{name:"initialRoute",value:{fullPath:d,params:{id:"2020"},hash:"",path:d,query:{}}}],[a,{name:b,value:c}]]}}("UPDATE_","greeting","evening","\u002Fshop\u002Fadd_to_bag\u002F2020")));
